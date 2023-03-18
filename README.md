@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;&color=C1CB12&size=40&center=true&repeat=false" />
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=~(˘▾˘~);(~˘▾˘)~ &color=00FFFF&size=40&center=true&duration=500" />
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=~(˘▾˘~);~(˘▾˘)~;(~˘▾˘)~;~(˘▾˘)~ &color=00FFFF&size=40&center=true&duration=500" />
 <p align="center"> <img src="https://github.com/FordPIU/FordPIU/blob/output/github-contribution-grid-snake-dark.svg" />
 
 # Profile Views
